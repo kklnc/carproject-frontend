@@ -1,0 +1,10 @@
+.rent-item {
+    padding: 30px;
+    text-align: center;
+    background: #f4f5f8;
+    transition: .5s;
+}
+.rent-item:hover, .rent-item.active {
+    background: #2b2e4a;
+    color: #f4f5f8;
+}
